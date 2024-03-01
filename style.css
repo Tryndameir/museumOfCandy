@@ -1,16 +1,21 @@
 body {
     background: #f5d9d5;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    padding: 0;
+    
 }
 
 #mainNavBar {
     font-size: 1.5rem;
     font-weight: 100;
-    margin-left: 20px;
+    position: relative;
 }
 
 #mainNavBar .navbar-brand{
     color: #ea1c2c;
 }
+
 #mainNavBar .nav-link {
     color: white;
 }
@@ -19,6 +24,4 @@ body {
     color: #ea1c2c;
 }
 
-#mainNavBar .navbar-brand{
-    color: #ea1c2c;
-}
+
