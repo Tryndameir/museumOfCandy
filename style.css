@@ -1,7 +1,6 @@
 body {
     background: #f5d9d5;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 20px;
     padding: 0;
     
 }
@@ -9,7 +8,7 @@ body {
 #mainNavBar {
     font-size: 1.5rem;
     font-weight: 100;
-    position: relative;
+    
 }
 
 #mainNavBar .navbar-brand{
@@ -23,5 +22,4 @@ body {
 #mainNavBar .nav-link:hover {
     color: #ea1c2c;
 }
-
 
