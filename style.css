@@ -36,4 +36,37 @@ body {
     #headingGroup h2{
         font-size: 3rem;
     }
+    
+}
+
+#middle h2{
+    color: #ea1c2c;
+}
+
+#middle  h3{
+    font-size: 1rem;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: #f498b8;
+    line-height: 200%;
+}
+
+#middle  h2{
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+@media (max-width: 1200px) {
+    #middle h2 {
+        font-size: 1.5rem;
+        
+    }
+}
+
+@media (max-width: 1200px) {
+    #middle h3 {
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 100%;
+    }
 }
